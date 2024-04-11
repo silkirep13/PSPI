@@ -18,6 +18,7 @@ header {
 .logo {
   width: 250px;
   height: 58px;
+  margin-left:150px;
 }
 
 nav ul {
