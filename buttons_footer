@@ -14,3 +14,9 @@
 <footer class="container my-5">
         <p class="text-center text-black bg-light border-top pt-1 mt-1">Όνομα: [Το όνομά σας]΄ΑΕΜ: [Το ΑΕΜ σας]</p>
         </footer>    
+
+footer {
+  height: 100px; /* Ύψος 100px */
+  width: 100%; /* Πλήρες πλάτος της σελίδας */
+  
+}
