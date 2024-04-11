@@ -1,0 +1,16 @@
+ <header> 
+        <img src="logo.png" alt="Λογότυπο" class="logo">
+        <div class="container">
+            <header class="d-flex justify-content-center py-1">
+            <ul class="nav nav-pills">
+            <li class="nav-item"><a href="homepage.html" class="nav-link active">Home</a></li>
+            <li class="nav-item"><a href="products.html" class="nav-link">Products</a></li>
+            </ul>
+            </header>
+            </div>
+    </header>
+
+
+<footer class="container my-5">
+        <p class="text-center text-black bg-light border-top pt-1 mt-1">Όνομα: [Το όνομά σας]΄ΑΕΜ: [Το ΑΕΜ σας]</p>
+        </footer>    
